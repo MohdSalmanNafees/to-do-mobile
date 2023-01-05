@@ -1,0 +1,184 @@
+ @media (max-width: 600px) {
+    .upper-container1{
+        width: auto;
+        height: auto;
+        background-color: #FFFFFF;
+        padding: 22px 30px;
+    }
+        
+    #task{
+        font-size: 25px;
+        font-weight: 700;
+        color: #424242; 
+        font-family: Arial, Helvetica, sans-serif; 
+    }
+    
+    #list{
+        font-size: 25px;
+        font-weight: 600;
+        color: #00A5EC;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .upper-container2{
+        width: auto;
+        background-color: #EDEDED;
+        padding: 13px 0px;
+        
+    }
+    #plus-circle{
+        margin-left: 240px;
+    }
+    
+    #add{
+        display: none;
+    }
+  }
+  
+ @media (max-width: 600px) {
+    .card-container{
+        width: auto;
+        height: 190vh;
+        background-color: #EDEDED;
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-content: center;
+        cursor: pointer;
+        
+    }
+    .card1, .card2, .card3, .card4, .card5{
+        border: 1px solid #67676729;
+        height: 35vh;
+        margin-top: 10px;
+        background-color: #FFFFFF;
+        border-radius: 10px;
+        cursor: pointer;
+        box-shadow: 1px 1px 2px 2px grey;
+    }
+    .div1{
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 25px 40px;
+        font-size: 1.1rem;
+        color:#00A5EC
+    } 
+    .div2{
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 15px 20px;
+        font-size: 1rem;
+        opacity: 0.3;
+        text-decoration: line-through;
+    }
+    #check1{
+        width: 18px;
+        height: 18px;
+    }
+    .div3{
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 0px 20px;
+        font-size: 1rem;
+        color: #424242;
+    }
+    #check2{
+        width: 18px;
+        height: 18px;
+    }
+  }
+   
+/*  
+.upper-container1{
+    background-color: #FFFFFF;
+    padding: 20px 180px;
+}
+#task{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #424242;
+}
+#list{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.3rem;
+    font-weight: 600;
+    color: #00A5EC;
+}
+.upper-container2{
+    width: auto;
+    background-color: #EDEDED;
+    padding: 10px 0px;
+}
+#plus-circle{
+    margin-left: 840px;
+}
+
+#add{
+    font-size: 1.6rem;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    margin-top: 4px;
+    color: #424242;
+}
+.card-container{
+    width: auto;
+    height: 83vh;
+    background-color: #EDEDED;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.card1, .card2, .card3, .card4, .card5{
+    width: 20vw;
+    height: 30vh;
+    border: 1px solid #FFFFFF;
+    margin: 30px 150px; 
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px grey;
+} 
+.card2{
+    margin-top: -275px;
+    margin-left: 550px;
+}
+.card3{
+    margin-top: -275px;
+    margin-left: 950px;
+}
+.card4{
+    margin-left: 550px;
+}
+.card5{
+    margin-top: -273px;
+}
+.div1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 25px 40px;
+    font-size: 1.1rem;
+    color:#00A5EC
+} 
+.div2{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px 20px;
+    font-size: 1rem;
+    opacity: 0.3;
+    text-decoration: line-through;
+}
+#check1{
+    width: 18px;
+    height: 18px;
+}
+.div3{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 20px;
+    font-size: 1rem;
+    color: #424242;
+}
+#check2{
+    width: 18px;
+    height: 18px;
+}*/

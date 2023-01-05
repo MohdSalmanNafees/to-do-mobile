@@ -1,0 +1,76 @@
+@media (max-width: 600px){
+    .upper-container{
+        width: auto;
+        height: auto;
+        background-color: #FFFFFF;
+        padding: 22px 50px;  
+    }
+    #task-pop{
+        font-size: 25px;
+        font-weight: 700;
+        color: #424242; 
+        font-family: Arial, Helvetica, sans-serif; 
+    }
+    #list-pop{
+        font-size: 25px;
+        font-weight: 600;
+        color: #00A5EC;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}
+@media (max-width: 600px) {
+    .middle-container{
+        width:91vw;
+        height: 90vh;
+        background-color: #EDEDED;
+        padding: 19px 10px;   
+    }
+    .back-icon{
+        padding-right: 20px;
+    }
+    #back{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 1rem;
+    }
+    #plus-circles{
+        margin-left: 200px;
+        margin-top: -10px;
+    }
+    .card{
+        border: 1px solid #67676729;
+        height: 35vh;
+        margin-top: 10px;
+        background-color: #FFFFFF;
+        border-radius: 10px;
+        cursor: pointer;
+        box-shadow: 1px 1px 2px 2px grey;
+    }
+    .div1{
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 25px 0px;
+        font-size: 1.1rem;
+        text-align: center;
+        color: #00A5EC;
+    } 
+    .div2{
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 15px 20px;
+        font-size: 1rem;
+        opacity: 0.3;
+        text-decoration: line-through;
+    }
+    #check1{
+        width: 18px;
+        height: 18px;
+    }
+    .div3{
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 0px 20px;
+        font-size: 1rem;
+    }
+    #check2{
+        width: 18px;
+        height: 18px;
+    }
+  }
+ 
